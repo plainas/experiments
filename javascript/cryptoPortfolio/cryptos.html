@@ -1,0 +1,110 @@
+<html>
+
+  <head>
+    <title>Page Title</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            max-width: 1070px;
+        }
+
+        tr:nth-child(even){background-color: #f2f2f2}
+
+        th{
+            background-color: rgb(128, 161, 223);
+        }
+
+        table, td, th {    
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+
+        th, td {
+            padding: 6px;
+        }
+        body {
+            font-family: "Open Sans", sans-serif;
+        }
+
+        #total{
+            padding: 14px;
+        }
+
+    </style>
+  </head>
+
+  <body>
+        <h1>Crypto portfolio</h1>
+
+        <div id="tableWrapper"></div>
+
+        <div id="total"></div>
+
+    <script src="https://unpkg.com/axios@0.17.0/dist/axios.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.js"></script>
+
+    <script>
+    <!--
+        let portfolio = new Map([
+            ["BTC", 50],
+            ["BCH", 100],
+            ["ETH", 120],
+            ["XMR", 100],
+        ]);
+
+        var portfolio_symbols = Array.from(portfolio.keys());
+
+        console.log(portfolio_symbols);
+
+        var template = `
+        <table>
+            <thead>
+                <tr>
+                    <th>Asset</th>
+                    <th>Rank</th>
+                    <th>USD Price</th>
+            <th>Amount</th>
+            <th>Amount USD</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{#.}}
+            <tr>
+            <td>{{name}} </td>
+            <td> {{rank}} </td>
+            <td> {{price_usd}}</td>
+            <td> {{amount}}</td>
+            <td> {{amount_usd}}</td>
+        </tr>
+        {{/.}}
+            </tbody>
+        </table>
+        `;
+
+        axios.get("https://api.coinmarketcap.com/v1/ticker/")
+        .then( response => {
+            var myCurrencies = response.data.filter( c => portfolio_symbols.includes(c.symbol));
+            var myPortfolio = myCurrencies.map(c =>{
+                c.name = c.name + ' (' + c.symbol + ')';
+                c.amount = portfolio.get(c.symbol);
+                c.amount_usd = round(c.amount * c.price_usd);
+                
+            return c;
+            });
+            var total = myPortfolio.reduce((total, c) => total + c.amount_usd, 0);
+            total = round(total);
+
+            document.getElementById("tableWrapper").innerHTML = Mustache.render(template,myCurrencies);
+            document.getElementById('total').innerText = "Total: " + total;
+
+            function round(n){
+                return Math.round(n * 100) / 100;
+            };
+            
+        });
+        -->
+    </script>
+  </body>
+
+</html>
