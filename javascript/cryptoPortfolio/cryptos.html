@@ -47,11 +47,11 @@
     <script>
     <!--
         let portfolio = new Map([
-            ["BTC", 50],
-            ["BCH", 100],
-            ["ETH", 120],
-            ["XMR", 100],
-        ]);
+        ["BTC", 50],
+        ["BCH", 100],
+        ["ETH", 120],
+        ["XMR", 100],
+    ]);
 
         var portfolio_symbols = Array.from(portfolio.keys());
 
@@ -64,8 +64,10 @@
                     <th>Asset</th>
                     <th>Rank</th>
                     <th>USD Price</th>
-            <th>Amount</th>
-            <th>Amount USD</th>
+                    <th>Amount</th>
+                    <th>1h change</th>
+                    <th>24h change</th>
+                    <th>Amount USD</th>
             </tr>
         </thead>
         <tbody>
@@ -75,6 +77,8 @@
             <td> {{rank}} </td>
             <td> {{price_usd}}</td>
             <td> {{amount}}</td>
+            <td> {{percent_change_1h}}</td>
+            <td> {{percent_change_24h}}</td>
             <td> {{amount_usd}}</td>
         </tr>
         {{/.}}
