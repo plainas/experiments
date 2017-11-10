@@ -86,15 +86,14 @@
         </table>
         `;
 
-        axios.get("https://api.coinmarketcap.com/v1/ticker/")
+        axios.get("https://api.coinmarketcap.com/v1/ticker/?limit=0")
         .then( response => {
             var myCurrencies = response.data.filter( c => portfolio_symbols.includes(c.symbol));
             var myPortfolio = myCurrencies.map(c =>{
                 c.name = c.name + ' (' + c.symbol + ')';
                 c.amount = portfolio.get(c.symbol);
                 c.amount_usd = round(c.amount * c.price_usd);
-                
-            return c;
+                return c;
             });
             var total = myPortfolio.reduce((total, c) => total + c.amount_usd, 0);
             total = round(total);
