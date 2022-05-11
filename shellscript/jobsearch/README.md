@@ -6,7 +6,9 @@ Requires fzf and jq.
 
 Example usage:
 
+```
 ./jobs.sh "sales Lund"
+```
 
-![screencap](https://github.com/plainas/experiments/shellscript/jobsearch/screen.gif)
+![screencap](https://raw.githubusercontent.com/plainas/experiments/master/shellscript/jobsearch/screen.gif)
 
