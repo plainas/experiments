@@ -1,0 +1,26 @@
+[project]
+name = "assignment-gz-autumn-2025"
+version = "0.1.0"
+description = "Data processing workspace for Assignment GZ Autumn 2025."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-ubl",
+    "lxml",
+    "xmltodict",
+    "xsdata",
+]
+
+[project.scripts]
+xmltojson = "xmltojson_cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["xmltojson_cli"]
+
+
+[tool.uv]
+# uv will manage dependencies and lockfile for this project.

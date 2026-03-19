@@ -1,0 +1,488 @@
+[
+  {
+    "buyer": {
+      "name": "Region Örebro Län",
+      "organisationNumber": "2321000164"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Infusionsaggregat till volympump",
+      "description": "Denna upphandling avser ramavtal på infusionsaggregat till Alaris VP Plus Guardrails volumetrisk pump för leverans till Region Örebro län.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42247&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42247&GoTo=Tender",
+      "referenceNumber": "MT 2024-0082 / 24RS9786",
+      "submissionDeadline": "2025-02-13T00:00:00.000Z"
+    },
+    "id": "6784f811e0cca8255acda7de"
+  },
+  {
+    "buyer": { "name": "Ystad Kommun", "organisationNumber": "2120001181" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Skadedjursbekämpning",
+      "description": "Upphandling av tjänster för skadedjursbekämpning och sanering.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42222&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42222&GoTo=Tender",
+      "referenceNumber": "23/70",
+      "submissionDeadline": "2025-02-13T00:00:00.000Z"
+    },
+    "id": "6784f811e0cca8255acda7dd"
+  },
+  {
+    "buyer": {
+      "name": "STATISTISKA CENTRALBYRÅN",
+      "organisationNumber": "2021000837"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Kommunikationstjänster - Grafisk formgivning, animation och visualisering av data",
+      "description": "Upphandlingen avser kommunikationstjänster för grafisk formgivning, animation och visualisering av data",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42305&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42305&GoTo=Tender",
+      "referenceNumber": "SCB2025-36",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "6784f2f2fe57eedaa9f65461"
+  },
+  {
+    "buyer": {
+      "name": "Aktiebolaget Sollentunahem",
+      "organisationNumber": "5561919191"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Styr och reglerkonsulter",
+      "description": "Ramavtalet omfattar konsulttjänster inom Styr- och reglerteknik för ventilation, värme, kyla, belysning och säkerhet i beställarens fastighetsbestånd samt energioptimering och uppkopplade fastigheter, i samband med nybyggnad, renovering, ombyggnad och tillbyggnad.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42333&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42333&GoTo=Tender",
+      "referenceNumber": "24/324",
+      "submissionDeadline": "2025-02-11T00:00:00.000Z"
+    },
+    "id": "6784f2f0fe57eedaa9f6545c"
+  },
+  {
+    "buyer": {
+      "name": "Örkelljunga kommun",
+      "organisationNumber": "2120000878"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Skolskjuts med taxifordon 2024 - Örkelljunga kommun",
+      "description": "Upphandlingen omfattar regelbunden skolskjuts till och från skolan med taxiregistrerade fordon för elever inom grund- och gymnasieskola samt för\nelever inom anpassad grund- och gymnasieskola.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42321&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42321&GoTo=Tender",
+      "referenceNumber": "24/168",
+      "submissionDeadline": "2025-02-11T00:00:00.000Z"
+    },
+    "id": "6784f2f0fe57eedaa9f6545b"
+  },
+  {
+    "buyer": {
+      "name": "Lidköping Miljö och Teknik AB",
+      "organisationNumber": "5593954299"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Tippbil med kran 2",
+      "description": "Tippbil med kran 2",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42306&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42306&GoTo=Tender",
+      "referenceNumber": "2024-105",
+      "submissionDeadline": "2025-02-09T00:00:00.000Z"
+    },
+    "id": "6784f2f0fe57eedaa9f65459"
+  },
+  {
+    "buyer": { "name": "Region Uppsala", "organisationNumber": "2321000024" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Spoldesinfektor patienttoalett",
+      "description": "Upphandling av ramavtal för spoldesinfektor patienttoalett till Region Uppsala",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42340&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42340&GoTo=Tender",
+      "referenceNumber": "UPPH2024-00314",
+      "submissionDeadline": "2025-02-12T00:00:00.000Z"
+    },
+    "id": "6784f2f0fe57eedaa9f65458"
+  },
+  {
+    "buyer": {
+      "name": "Göteborgs Stad, Stadsfastighetsförvaltningen",
+      "organisationNumber": "2120001355"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Projekteringsstöd, byggledare och KA (enligt PBL) för nybyggnation av förskolorna Fredagstomten 23 och Solvädersbyn 60",
+      "description": "Upphandlingen omfattar projekteringsstöd till beställaren, byggledning och kontrollansvarig enligt PBL.\nProjekteringsstödet ska biträda beställaren under projekteringen och säkerställa att beställarens intressen omhändertas under projekteringen samt vara beställarrepresentant gentemot generalkonsulten",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42319&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42319&GoTo=Tender",
+      "referenceNumber": "SFF-2024-01251",
+      "submissionDeadline": "2025-02-20T00:00:00.000Z"
+    },
+    "id": "6784f2f0fe57eedaa9f65456"
+  },
+  {
+    "buyer": { "name": "Skövde kommun", "organisationNumber": "2120001710" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-10T00:00:00.000Z",
+    "tender": {
+      "title": "Hyrmaskiner Skövde kommun",
+      "description": "Hyrmaskiner i form av liftar, baracker, borrmaskiner för avhämtning i Skövde området.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42296&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42296&GoTo=Tender",
+      "referenceNumber": "24/141",
+      "submissionDeadline": "2025-02-11T00:00:00.000Z"
+    },
+    "id": "6784f2f0fe57eedaa9f65455"
+  },
+  {
+    "buyer": {
+      "name": "Trelleborgs kommun",
+      "organisationNumber": "2120001199"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Samordnad varudistribution - Transport av varor",
+      "description": "Samordnad varudistribution - Transport av varor",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42092&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42092&GoTo=Tender",
+      "referenceNumber": "KS 2025/18",
+      "submissionDeadline": "2025-02-07T00:00:00.000Z"
+    },
+    "id": "678104a1e8d17c3fb4ad2ac5"
+  },
+  {
+    "buyer": { "name": "Region Halland", "organisationNumber": "2321000115" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "CPAP-utrustning inklusive distansmonitorering samt masker för CPAP- och bilevelutrustning i hemmiljö",
+      "description": "Upphandlingen omfattar Region Hallands samlade behov av CPAP-utrustning inklusive distansmonitorering samt masker för CPAP- och bilevelutrusning. i hemmiljö. Anbud kan lämnas på ett eller flera av upphandlingens delområden.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42120&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42120&GoTo=Tender",
+      "referenceNumber": "RS241560",
+      "submissionDeadline": "2025-02-07T00:00:00.000Z"
+    },
+    "id": "678104a1e8d17c3fb4ad2ac4"
+  },
+  {
+    "buyer": {
+      "name": "Svedala Exploaterings Aktiebolag SVEDAB",
+      "organisationNumber": "5561913715"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Inbrottslarm och passerkontroll till kommunhus",
+      "description": "Entreprenaden omfattar utbyte och nyinstallation samt hyresgästanpassing av inbrott- och passersystem inom Svedala kommunhus.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42182&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42182&GoTo=Tender",
+      "referenceNumber": "25/1",
+      "submissionDeadline": "2025-02-12T00:00:00.000Z"
+    },
+    "id": "678104a0e8d17c3fb4ad2ac2"
+  },
+  {
+    "buyer": { "name": "Bostads AB Mimer", "organisationNumber": "5560193384" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-09T00:00:00.000Z",
+    "tender": {
+      "title": "Måleriarbeten lägenhetsunderhåll",
+      "description": "Ramavtal för inre måleriarbeten (lägenhetsunderhåll) i beställarens fastighetsbestånd",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42153&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42153&GoTo=Tender",
+      "referenceNumber": "2024140",
+      "submissionDeadline": "2025-02-17T00:00:00.000Z"
+    },
+    "id": "678104a0e8d17c3fb4ad2ac0"
+  },
+  {
+    "buyer": { "name": "Region Gävleborg", "organisationNumber": "2321000198" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Upphandlingskonsulter",
+      "description": "Välkommen att lämna anbud i upphandlingen avseende ett ramavtal för upphandlingskonsulter.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42093&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42093&GoTo=Tender",
+      "referenceNumber": "RS 2025/48",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "678104a0e8d17c3fb4ad2abe"
+  },
+  {
+    "buyer": { "name": "Region Uppsala", "organisationNumber": "2321000024" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Elhandelstjänster",
+      "description": "Elhandelstjänster",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42096&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42096&GoTo=Tender",
+      "referenceNumber": "UPPH2024-00362",
+      "submissionDeadline": "2025-02-14T00:00:00.000Z"
+    },
+    "id": "6781049fe8d17c3fb4ad2abc"
+  },
+  {
+    "buyer": {
+      "name": "Vänersborgs kommun",
+      "organisationNumber": "2120001538"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-09T00:00:00.000Z",
+    "tender": {
+      "title": "Strategisk Partnering Sportcentrum Vänersborg",
+      "description": "Upphandling av strategisk samverkanspartner för Vänersborgs kommuns behov av arbeten inom och omkring Sportcentrum Vänersborg med omnejd.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42195&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42195&GoTo=Tender",
+      "referenceNumber": "SBN 2024/250",
+      "submissionDeadline": "2025-02-18T00:00:00.000Z"
+    },
+    "id": "6780febbd596c28725a29622"
+  },
+  {
+    "buyer": { "name": "Örebro kommun", "organisationNumber": "2120001967" },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-09T00:00:00.000Z",
+    "tender": {
+      "title": "Personlarm och larmcentral 2024",
+      "description": "Upphandling av personlarm och larmcentral",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42185&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42185&GoTo=Tender",
+      "referenceNumber": "Soc 1156/2024",
+      "submissionDeadline": "2025-02-23T00:00:00.000Z"
+    },
+    "id": "6780feb9d596c28725a2961e"
+  },
+  {
+    "buyer": {
+      "name": "Göteborgs Stads inköps- och upphandlingsförvaltning",
+      "organisationNumber": "2120001355"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-09T00:00:00.000Z",
+    "tender": {
+      "title": "Däck och däckservice",
+      "description": "Vi söker leverantörer som med god service och högt engagemang vill bidra till säkerhet och trygghet på våra vägar. Detta med ett brett utbud av däck och tillbehör, lättillgängliga säsongskiften, service och reparationer på lokala verkstäder och servicebilar med snabba inställelsetider dygnet runt samt säsongsförvaring på däckhotell.\n\nDelområde lätta fordon:\nRamavtalet avser lätta fordon <3,5 ton, varav främst personbilar och lätta lastbilar.\n\nRamavtalet omfattar:\n\n    Nya däck, fälgar och tillbehör.\n    Verkstäder för säsongskifte, service och reparationer.\n    Servicebilar med dygnstäckande jour.\n    Däckhotell för säsongsförvaring.\n\nDelområde tunga fordon:\nRamavtalet avser tunga fordon >3,5 ton, varav främst tunga lastbilar samt ett fåtal fordon/arbetsmaskiner inom lantbruk, industri/entreprenad och trädgård/markvård, såsom exempelvis traktorer, hjullastare, åkgräsklippare etcetera.\n\nRamavtalet omfattar:\n\n    Nya däck, fälgar och tillbehör.\n    Regummerade däck.\n    Verkstäder för säsongskifte, service och reparationer.\n    Servicebilar med dygnstäckande jour.\n    Däckhotell för säsongsförvaring.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41353&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41353&GoTo=Tender",
+      "referenceNumber": "158/24",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "6780feb8d596c28725a29616"
+  },
+  {
+    "buyer": {
+      "name": "Aktiebolaget Bostäder i Borås",
+      "organisationNumber": "5560248782"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2024-12-20T00:00:00.000Z",
+    "tender": {
+      "title": "Ramavtal Solskydd",
+      "description": "Upphandling av solskydd",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41427&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41427&GoTo=Tender",
+      "referenceNumber": "24/20",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "677ffd4ee585f906cc79897d"
+  },
+  {
+    "buyer": {
+      "name": "Region Örebro Län",
+      "organisationNumber": "2321000164"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Tandtekniska tjänster",
+      "description": "Detta avtal omfattar leverans av tandtekniska tjänster till Region Örebro län.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42010&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42010&GoTo=Tender",
+      "referenceNumber": "23RS1705",
+      "submissionDeadline": "2025-02-07T00:00:00.000Z"
+    },
+    "id": "677ff4fcf2687b0dc712055a"
+  },
+  {
+    "buyer": {
+      "name": "Kungsbacka kommun",
+      "organisationNumber": "2120001256"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-07T00:00:00.000Z",
+    "tender": {
+      "title": "Bekämpning av invasiva främmande växtarter",
+      "description": "Bekämpning av invasiva främmande växtarter i Kungsbacka kommun",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41969&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41969&GoTo=Tender",
+      "referenceNumber": "2024-00413",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "677fb8c121178355220741dd"
+  },
+  {
+    "buyer": {
+      "name": "Mörbylånga kommun",
+      "organisationNumber": "2120000704"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-07T00:00:00.000Z",
+    "tender": {
+      "title": "Läkemedelsautomater",
+      "description": "Ramavtal för läkemedelsautomater med dosdispenserade läkemedel. Tjänsten ska förutom läkemedelsautomater  inkludera:\n\nService och support\nImplementation och utbildning \nTillhörande administrationssystem\nTräningsautomat\n\n Volym uppskattas uppgå till ca 75 automater",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41970&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41970&GoTo=Tender",
+      "referenceNumber": "SN 2024/000138",
+      "submissionDeadline": "2025-02-06T00:00:00.000Z"
+    },
+    "id": "677fb8c121178355220741dc"
+  },
+  {
+    "buyer": {
+      "name": "Västra Götalandsregionen",
+      "organisationNumber": "2321000131"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-07T00:00:00.000Z",
+    "tender": {
+      "title": "VF - Bänkar (ramavtal leverans av bänkar)",
+      "description": "Upphandlingen omfattar köp och leverans av bänkar samt tillhörande material för infästning och reservdelar. Bänkarna ska vara utplacerade på hållplatser för kollektivtrafik runt om i Västra Götaland.\n\nUpphandlingen gäller för hela upptagningsområdet Västra Götalandsregionen.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41952&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41952&GoTo=Tender",
+      "referenceNumber": "SFSS 2024–01293",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "677fb8c121178355220741db"
+  },
+  {
+    "buyer": {
+      "name": "Västra Götalandsregionen",
+      "organisationNumber": "2321000131"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-07T00:00:00.000Z",
+    "tender": {
+      "title": "Leverans av topptavlor med fästen, namnskyltar till väderskydd och pendelparkeringsskyltar",
+      "description": "Upphandlingen omfattar köp och leverans av topptavlor, fästen, namnskyltar till väderskydd och pendelparkeringsskyltar. Efterfrågade skyltar ska levereras med eller utan foliering.\n\nUpphandlingen gäller för hela upptagningsområdet Västra Götalandsregionen.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41943&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41943&GoTo=Tender",
+      "referenceNumber": "SFSS 2024-01188",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "677fb8c121178355220741d9"
+  },
+  {
+    "buyer": {
+      "name": "Linköpings universitet",
+      "organisationNumber": "2021003096"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-07T00:00:00.000Z",
+    "tender": {
+      "title": "Mässbyrå",
+      "description": "Uppdraget innefattar huvudsakligen monterdesign, monterproduktion, transport, byggnation samt förvaring av monter och monterdelar.\nUppdraget har primärt presumtiva studenter i Sverige som målgrupp men det kan även bli aktuellt med uppdrag mot en internationell målgrupp.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41965&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41965&GoTo=Tender",
+      "referenceNumber": "LiU-2024-04684",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "677fb8c121178355220741d8"
+  },
+  {
+    "buyer": {
+      "name": "Västra Götalandsregionen",
+      "organisationNumber": "2321000131"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-07T00:00:00.000Z",
+    "tender": {
+      "title": "Drivaggregat",
+      "description": "Drivaggregat",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41841&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41841&GoTo=Tender",
+      "referenceNumber": "RS 2024-00046",
+      "submissionDeadline": "2025-02-13T00:00:00.000Z"
+    },
+    "id": "677fb8c021178355220741d7"
+  },
+  {
+    "buyer": {
+      "name": "Västra Götalandsregionen",
+      "organisationNumber": "2321000131"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Suturer, hemostatikum, staples och clips",
+      "description": "Suturer, hemostatikum, staples och clips.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41967&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=41967&GoTo=Tender",
+      "referenceNumber": "RS 2025-00014",
+      "submissionDeadline": "2025-02-11T00:00:00.000Z"
+    },
+    "id": "677fb8c021178355220741d6"
+  },
+  {
+    "buyer": {
+      "name": "Trollhättans kommun",
+      "organisationNumber": "2120001546"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Maskintjänster för kabelarbeten för Trollhättan Energi Elnät AB 2025",
+      "description": "Upphandlingen avser Trollhättan Energi Elnät AB:s behov av maskintjänster med förare för kabelförläggning samt anläggningsarbetare för handgrävning invid elkabel.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42033&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42033&GoTo=Tender",
+      "referenceNumber": "2024/1474",
+      "submissionDeadline": "2025-02-10T00:00:00.000Z"
+    },
+    "id": "677fb26669e96cb4c69dcec0"
+  },
+  {
+    "buyer": {
+      "name": "Göteborgs Stad, Stadsfastighetsförvaltningen",
+      "organisationNumber": "2120001355"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Nytorpsskolan - Förlängningsrenovering samt div kundanpassningar",
+      "description": "Denna totalentreprenad avser in-och utvändig renovering inklusive installationer samt diverse lokalanpassningar. Omfattning framgår av handlingar angivna under AFB.32.\n\nEntreprenaden genomförs i etapper med evakuering av verksamheten inom skolans egna lokaler.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42054&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42054&GoTo=Tender",
+      "referenceNumber": "SFF-2024-01247",
+      "submissionDeadline": "2025-02-19T00:00:00.000Z"
+    },
+    "id": "677fb26569e96cb4c69dcebf"
+  },
+  {
+    "buyer": {
+      "name": "Region Kalmar Län",
+      "organisationNumber": "2321000073"
+    },
+    "datasource": "TENDSIGN",
+    "date": "2025-01-08T00:00:00.000Z",
+    "tender": {
+      "title": "Pellets 2025",
+      "description": "Avropsavtal för köp och leverans av pellets till fastbränslepannor inom Region Kalmar län.",
+      "documentUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42043&GoTo=Docs",
+      "submissionUrl": "https://tendsign.com/doc.aspx?MeFormsNoticeId=42043&GoTo=Tender",
+      "referenceNumber": "2023-224",
+      "submissionDeadline": "2025-02-14T00:00:00.000Z"
+    },
+    "id": "677fb26569e96cb4c69dcebe"
+  }
+]
